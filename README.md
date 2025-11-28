@@ -28,17 +28,21 @@ I love building smart applications, learning new technologies, and improving my 
 | **House-Predictive-App** | Real-estate prediction tool (work in progress). |
 
 ---
-
 ## 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=muzamilofficial&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://streak-stats.demolab.com?user=muzamilofficial&theme=tokyonight" width="48%"/>
+  <!-- Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=muzamilofficial&show_icons=true&theme=tokyonight&cache_seconds=1800" width="48%" />
+
+  <!-- Streak -->
+  <img src="https://streak-stats.demolab.com?user=muzamilofficial&theme=tokyonight&hide_border=false" width="48%" />
 </p>
 
+<!-- Languages -->
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=muzamilofficial&layout=compact&theme=tokyonight" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzamilofficial&layout=compact&theme=tokyonight&cache_seconds=1800" width="40%" />
 </p>
+
 
 ---
 
